@@ -1,0 +1,45 @@
+# Build
+[Oo]bj/
+[Bb]in/
+ 
+# Dependencies
+[Pp]ackages/
+/[Cc]omponents
+ 
+# Exported apps
+*.[Aa][Pp][Kk]
+*.[Ii][Pp][Aa]
+*.[Dd][Dm][Gg]
+*.[Aa][Pp][Pp]
+ 
+# Compressed files
+*.[Zz][Ii][Pp]
+*.[Tt][Aa][Rr]
+*.[Tt][Aa][Rr].[Gg][Zz]
+*.7[Zz]
+ 
+# OS Files
+*.DS_Store
+Thumbs.db
+ 
+# Visual Studio
+*~
+Makefile.in
+*.sln.cache
+*.suo
+*.cache
+*.pidb
+*.userprefs
+*.usertasks
+config.log
+config.make
+config.status
+aclocal.m4
+install-sh
+autom4te.cache/
+*.user
+TestResults/
+test-results/
+*_Resharper.*
+*.Resharper
+*.dotCover
