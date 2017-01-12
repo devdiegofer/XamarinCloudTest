@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>XamarinCloudTest</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.diegofer.poc.xamarincloudtest</string>
+	<string>com.diegofer.poc.provgen</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
